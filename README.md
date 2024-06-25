@@ -1,5 +1,3 @@
-# data-analyst-technical-test
-
 # honei Data Analyst Exercise
 
 Welcome to the honei Data Analyst offline exercise. This is your opportunity to showcase your skills that are essential for a Data Analyst role at honei. If any part of the exercise is unclear, please reach out for clarification.
