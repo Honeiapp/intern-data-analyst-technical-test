@@ -1,5 +1,3 @@
-# data-analyst-technical-test
-
 # honei Data Analyst Exercise
 
 Welcome to the honei Data Analyst offline exercise. This is your opportunity to showcase your skills that are essential for a Data Analyst role at honei. If any part of the exercise is unclear, please reach out for clarification.
@@ -22,7 +20,7 @@ After completing the exercise:
 
 1. Ensure all your files are organized in the appropriate directories.
 2. Compress the entire exercise into a zip file.
-3. Email the zipped file to analytics@honei.com, and CC your recruiter.
+3. Email the zipped file to dev@honei.app, and CC your recruiter.
 
 ## SQL Challenge
 
