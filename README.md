@@ -20,7 +20,7 @@ After completing the exercise:
 
 1. Ensure all your files are organized in the appropriate directories.
 2. Compress the entire exercise into a zip file.
-3. Email the zipped file to analytics@honei.com, and CC your recruiter.
+3. Email the zipped file to dev@honei.app, and CC your recruiter.
 
 ## SQL Challenge
 
